@@ -242,5 +242,4 @@ class UsersList extends Component {
     return <>{allUsers}</>;
   }
 }
-
 export default UsersList;
